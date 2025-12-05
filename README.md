@@ -1,3 +1,7 @@
+<!-- badges: start -->
+[![Java Version](https://img.shields.io/badge/Java-8%2B-blue.svg)](#)  
+<!-- badges: end -->
+
 # 🩺 Simple Java BMI Calculator
 
 ## 📖 Table of Contents  
