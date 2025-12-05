@@ -1,6 +1,3 @@
-Cool — here’s a nice, GitHub-ready **README.md** for your BMI calculator program. You can paste this into your project repo (and edit parts to fit your style).
-
-````markdown
 # 🩺 Simple Java BMI Calculator
 
 ## 📖 Table of Contents  
